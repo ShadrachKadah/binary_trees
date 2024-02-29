@@ -3,7 +3,7 @@
 #include "binary_trees.h"
 
 /**
- * main - Entry point
+ * main - Etry point
  *
  * Return: Always 0 (Success)
  */
